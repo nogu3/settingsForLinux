@@ -5,6 +5,7 @@ This repository is Ubuntu settings.
 ### utility
 ```shell
 sudo apt install -y git
+sudo apt install -y wget
 sudo apt install -y mozc-utils-gui
 ```
 
