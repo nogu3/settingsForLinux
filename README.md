@@ -36,7 +36,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-up "['']"
 ```
 
 ## hide dock sidebar
-<!-- https://jp.moyens.net/android/197333/ -->
+https://jp.moyens.net/android/197333/
 
 ## Todo
 - [Done]xremap to service
