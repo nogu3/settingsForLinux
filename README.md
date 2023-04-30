@@ -9,6 +9,21 @@ sudo apt install -y wget
 sudo apt install -y mozc-utils-gui
 ```
 
+### terminator
+1. install
+    ```shell
+    sudo apt install -y terminator
+    ```
+2. be a quake
+    ```
+    https://qiita.com/SUZUKI_Masaya/items/ddc9bcfaf6b09708fe32
+    ```
+3. theme change iceberg
+    ```
+    https://qiita.com/hisw/items/e6b1fd665a2c648a6cb7
+    ```
+
+
 ### xremap
 ```shell
 chmod 764 ./xremap/install.sh
@@ -24,8 +39,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-up "['']"
 ## Todo
 - [Done]xremap to service
 - terminal working ctrl + c, x ,v
-- github push settings
-- finger print login
-- secure lock unlock
+- [Done]github push settings
+- [Done]finger print login
+- secure lock unlock(keysore rpool)
 - ssh wsl on windows
-- terminal theme setting
+- [Done]terminal theme setting

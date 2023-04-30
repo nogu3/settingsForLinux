@@ -22,7 +22,6 @@ keymap:
   - name: Global
     remap:
       Alt-w: Alt-tab
-      Ctrl_L-KEY_DOT: Ctrl-C
       CapsLock-s: backspace
       CapsLock-i: Up
       CapsLock-j: Left
