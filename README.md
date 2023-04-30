@@ -23,8 +23,7 @@ sudo apt install -y mozc-utils-gui
     https://qiita.com/hisw/items/e6b1fd665a2c648a6cb7
     ```
 
-
-### xremap
+### xremaphttps://jp.moyens.net/android/197333/
 ```shell
 chmod 764 ./xremap/install.sh
 sudo sh ./xremap/install.sh
@@ -35,6 +34,9 @@ sudo sh ./xremap/install.sh
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-down "['']"
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-up "['']"
 ```
+
+## hide dock sidebar
+<!-- https://jp.moyens.net/android/197333/ -->
 
 ## Todo
 - [Done]xremap to service
