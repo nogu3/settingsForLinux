@@ -93,6 +93,18 @@ Settings → Apprerance →　Auto-hide the Dock
 1. theme change iceberg
     https://qiita.com/hisw/items/e6b1fd665a2c648a6cb7
 
+### ulauncher
+
+```
+sudo apt install -y ulauncher
+```
+
+`You might want to run 'apt --fix-broken install' to correct these.` is showed.
+run after command.
+```
+sudo apt --fix-broken install
+```
+
 ## Todo
 - [Done]xremap to service
 - terminal working ctrl + c, x ,v
