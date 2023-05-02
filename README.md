@@ -70,31 +70,35 @@ cd fingerprint
 sudo sh ./install.sh
 ```
 
+## chrome
+https://www.google.com/intl/ja_jp/chrome/
+
+```shell
+dpkg -i google-chrome-stable_current_amd64.deb
+```
+
+## hide dock sidebar
+https://jp.moyens.net/android/197333/
+```
+Settings → Apprerance →　Auto-hide the Dock
+```
+
 ### terminator
 1. install
     ```shell
     sudo apt install -y terminator
     ```
 1. be a guake
-    ```
     https://qiita.com/SUZUKI_Masaya/items/ddc9bcfaf6b09708fe32
-    ```
 1. theme change iceberg
-    ```
     https://qiita.com/hisw/items/e6b1fd665a2c648a6cb7
-    ```
-
-
-
-## hide dock sidebar
-https://jp.moyens.net/android/197333/
 
 ## Todo
 - [Done]xremap to service
 - terminal working ctrl + c, x ,v
 - [Done]github push settings
 - [Done]finger print login
-- secure lock unlock(keysore rpool)
+- [Done]secure lock unlock(keysore rpool)
 - ssh wsl on windows
 - [Done]terminal theme setting
 
