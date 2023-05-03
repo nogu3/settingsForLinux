@@ -105,6 +105,13 @@ run after command.
 sudo apt --fix-broken install
 ```
 
+hotkey global settings.
+https://github.com/Ulauncher/Ulauncher/wiki/Hotkey-In-Wayland
+
+### two-finger prev next
+firefox change mode wayland
+https://fostips.com/enable-2-finger-swipe-back-forward-gesture-in-firefox-in-ubuntu/
+
 ## Todo
 - [Done]xremap to service
 - terminal working ctrl + c, x ,v
