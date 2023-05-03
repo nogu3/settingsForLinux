@@ -108,7 +108,7 @@ sudo apt --fix-broken install
 hotkey global settings.
 https://github.com/Ulauncher/Ulauncher/wiki/Hotkey-In-Wayland
 
-### two-finger prev next
+### two-finger prev next for firefox
 firefox change mode wayland
 https://fostips.com/enable-2-finger-swipe-back-forward-gesture-in-firefox-in-ubuntu/
 
