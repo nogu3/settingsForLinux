@@ -17,6 +17,9 @@ This repository is Ubuntu settings.
    ```shell
    sudo apt update
    sudo apt install -y git
+   sudo apt install -y neovim
+   // require install appimage
+   sudo apt install -y fuse
    ```
 1. git setup
    ```
@@ -31,7 +34,7 @@ This repository is Ubuntu settings.
     sudo apt install -y mozc-utils-gui
     ```
 1. reboot. Because mozc-utils-gui is require.
-1. ubuntu default short cut disabled.
+1. ubuntu default short cut(up and down) disabled.
    ```shell
    gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-down "['']"
    gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-up "['']"
@@ -112,14 +115,30 @@ https://github.com/Ulauncher/Ulauncher/wiki/Hotkey-In-Wayland
 firefox change mode wayland
 https://fostips.com/enable-2-finger-swipe-back-forward-gesture-in-firefox-in-ubuntu/
 
+### rdpクライアント
+https://gihyo.jp/admin/serial/01/ubuntu-recipe/0661
+
 ## Todo
 - [Done]xremap to service
 - terminal working ctrl + c, x ,v
 - [Done]github push settings
 - [Done]finger print login
 - [Done]secure lock unlock(keysore rpool)
-- ssh wsl on windows
+- [Done]ssh wsl on windows
+  - [Done]public key authentication
 - [Done]terminal theme setting
+- conky setup
+  - conky is memory monitor. settings for required info only.
+  - dont must
+  - http://bluearth.cocolog-nifty.com/blog/2020/02/post-9e17f4.html
+- [Done]tailscale
+  - Its amaging.
+
+### ssh command
+file copy to windows
+```
+scp -P <port> . -i <source-path> id_rsa.pub <user-name>@<hostname>:<path(/C:/aaa/bbb/)>
+```
 
 ## FYI
 - analyze boot time
