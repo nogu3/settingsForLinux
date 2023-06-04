@@ -23,6 +23,7 @@ keymap:
     remap:
       Alt-w: Alt-tab
       CapsLock-s: backspace
+      CapsLock-d: delete
       CapsLock-i: Up
       CapsLock-j: Left
       CapsLock-k: Down
