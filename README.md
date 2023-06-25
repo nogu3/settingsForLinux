@@ -123,6 +123,9 @@ https://gihyo.jp/admin/serial/01/ubuntu-recipe/0661
 #### install tweaks
 https://ciksiti.com/ja/chapters/1682-install-gnome-tweak-tools-on-ubuntu-20-04--linux-hint
 
+#### install nerd font(Source Code Pro)
+https://www.nerdfonts.com/font-downloads
+
 ### login shell change zsh 
 1. install
 ```shell
