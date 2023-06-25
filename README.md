@@ -116,8 +116,23 @@ https://github.com/Ulauncher/Ulauncher/wiki/Hotkey-In-Wayland
 firefox change mode wayland
 https://fostips.com/enable-2-finger-swipe-back-forward-gesture-in-firefox-in-ubuntu/
 
-### rdpクライアント
+### rdp client
 https://gihyo.jp/admin/serial/01/ubuntu-recipe/0661
+
+### change font
+#### install tweaks
+https://ciksiti.com/ja/chapters/1682-install-gnome-tweak-tools-on-ubuntu-20-04--linux-hint
+
+### login shell change zsh 
+1. install
+```shell
+sudo apt install zsh
+```
+
+1. change shell bash from zsh
+```shell
+chsh -s /bin/zsh
+```
 
 ## Todo
 - [Done]xremap to service
