@@ -140,9 +140,18 @@ chsh -s /bin/zsh
 ### Make Firefox look like Chrome
 https://www.gigafree.org/firefox/materialfox/
 
+### terminator working ctrl + c, v , .(dot)
+1. add keybinding using vim
+```
+[keybindings]
+  copy = <Control>c
+  paste = <Control>v
+  interrupt = <Control><period>
+```
+
 ## Todo
 - [Done]xremap to service
-- terminal working ctrl + c, x ,v
+- [Done]terminal working ctrl + c, x ,v
 - [Done]github push settings
 - [Done]finger print login
 - [Done]secure lock unlock(keysore rpool)
