@@ -137,6 +137,9 @@ sudo apt install zsh
 chsh -s /bin/zsh
 ```
 
+### Make Firefox look like Chrome
+https://www.gigafree.org/firefox/materialfox/
+
 ## Todo
 - [Done]xremap to service
 - terminal working ctrl + c, x ,v
