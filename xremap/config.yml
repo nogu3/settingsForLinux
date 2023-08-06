@@ -30,6 +30,8 @@ keymap:
       CapsLock-l: Right
       Ctrl_L-Enter: Semicolon
       Shift-Enter: Shift-Semicolon
+      # for slack
+      Alt-Enter: Ctrl_L-Enter
       Ctrl_R-w: KEY_1
       Ctrl_R-e: KEY_2
       Ctrl_R-r: KEY_3
