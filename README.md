@@ -158,14 +158,15 @@ https://www.gigafree.org/firefox/materialfox/
 - [Done]ssh wsl on windows
   - [Done]public key authentication
 - [Done]terminal theme setting
+- [Done]tailscale
+  - Its amaging.
+- [Done]ubuntu theme
+  - https://www.youtube.com/watch?v=PO_1i_Uh9As&t=170s
 - conky setup
   - conky is memory monitor. settings for required info only.
   - dont must
   - http://bluearth.cocolog-nifty.com/blog/2020/02/post-9e17f4.html
-- [Done]tailscale
-  - Its amaging.
-- [Doing]ubuntu theme
-  - https://www.youtube.com/watch?v=PO_1i_Uh9As&t=170s
+
 
 ### ssh command
 file copy to windows
