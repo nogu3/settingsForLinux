@@ -166,7 +166,17 @@ https://www.gigafree.org/firefox/materialfox/
   - conky is memory monitor. settings for required info only.
   - dont must
   - http://bluearth.cocolog-nifty.com/blog/2020/02/post-9e17f4.html
-
+- change default brawser from firefox to chrome
+  - Because: 
+    - github authenticate isn't working.
+    - chrome starts up quickly.
+  - TODO:
+    - setting not wayland native
+    - To swipe two finger go and back
+      - install libinput gesture
+      - https://www.ohmyenter.com/trackpad-gestures-with-libinput-on-linux/
+- To make PC startup faster.
+- To uninstall unnecessary software.
 
 ### ssh command
 file copy to windows
