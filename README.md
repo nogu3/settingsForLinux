@@ -149,6 +149,11 @@ https://www.gigafree.org/firefox/materialfox/
   interrupt = <Control><period>
 ```
 
+## Hide Top Bar
+1. open Gnome Extension Manager
+1. touch Browse
+1. search "Hide Top Bar". click install.
+
 ## Todo
 - [Done]xremap to service
 - [Done]terminal working ctrl + c, x ,v
@@ -175,6 +180,8 @@ https://www.gigafree.org/firefox/materialfox/
     - To swipe two finger go and back
       - install libinput gesture
       - https://www.ohmyenter.com/trackpad-gestures-with-libinput-on-linux/
+    - Failed.....
+      - two swipe can not setting.
 - To make PC startup faster.
 - To uninstall unnecessary software.
 
