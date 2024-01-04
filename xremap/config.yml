@@ -5,7 +5,9 @@ virtual_modifiers:
 modmap:
   - name: Global
     remap:
-      CapsLock: Ctrl_L
+      CapsLock: 
+        held: Ctrl_L
+        alone: Enter
       Space:
         held: CapsLock
         alone: Space
