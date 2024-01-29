@@ -8,9 +8,9 @@ modmap:
       CapsLock: 
         held: Ctrl_L
         alone: Enter
-      Space:
+      KEY_RIGHTALT:
         held: CapsLock
-        alone: Space
+        alone: KEY_RIGHTALT
       Enter: 
         held: Ctrl_R
         alone: Henkan
