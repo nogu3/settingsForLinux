@@ -97,6 +97,10 @@ Settings → Apprerance →　Auto-hide the Dock
 1. theme change iceberg
     https://qiita.com/hisw/items/e6b1fd665a2c648a6cb7
 
+### alacritty
+1. install
+https://zenn.dev/shinnopo/articles/798398b1d87f62
+
 ### ulauncher
 
 ```
