@@ -87,7 +87,7 @@ https://jp.moyens.net/android/197333/
 Settings → Apprerance →　Auto-hide the Dock
 ```
 
-### terminator
+### [deprecated]terminator
 1. install
     ```shell
     sudo apt install -y terminator
@@ -100,6 +100,8 @@ Settings → Apprerance →　Auto-hide the Dock
 ### alacritty
 1. install
 https://zenn.dev/shinnopo/articles/798398b1d87f62
+1. remove shortcut ctrl + period
+https://askubuntu.com/questions/1372781/new-ctrl-period-key-sequence-default-in-21-10
 
 ### ulauncher
 
